@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Webplus</string>
+    <string name="menuItem_settings">Settings</string>
+    <string name="search">Enter a URL or anything to search</string>
+    <string name="menuItem_optimize">Optimize</string>
+    <string name="menuItem_google">Home</string>
+    <string name="menuItem_bookmarks">Bookmarks</string>
+    <string name="menuItem_bookmarksAdd">Bookmark this site</string>
+    <string name="menuItem_bookmarksExisting">Display Bookmarks</string>
+    <string name="gestureImage">Slide to navigate</string>
+    <string name="fullscreenVideoStreaming">Enable fullscreen Video streaming</string>
+    <string name="title_activity_browsing">BrowsingActivity</string>
+    <string name="preference_data_saving">Data Saving</string>
+    <string name="menu_item_reload">Reload</string>
+    <string name="menu_item_forward">Forward</string>
+</resources>
+
